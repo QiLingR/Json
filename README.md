@@ -1,2 +1,2 @@
 # Json
-Sava json reposiory
+Sava json repostory
